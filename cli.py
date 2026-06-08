@@ -5,3 +5,6 @@
  * copyright 2026
 """
 
+args = parser.parse_args()
+
+symbol = args.symbol
